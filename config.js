@@ -13,6 +13,8 @@ window.skillsData = {
     {
       id: "programming-languages",
       name: "Programming Languages",
+      value: 76,
+      expected: 54,
       children: [
         { id: "python", name: "Python", value: 78, expected: 50 },
         { id: "javascript", name: "JavaScript", value: 65, expected: 40 },
@@ -23,6 +25,8 @@ window.skillsData = {
     {
       id: "algorithms-data-structures",
       name: "Algorithms & Data Structures",
+      value: 80,
+      expected: 60,
       children: [
         {
           id: "arrays-strings",
@@ -48,6 +52,8 @@ window.skillsData = {
     {
       id: "system-design",
       name: "System Design",
+      value: 80,
+      expected: 63,
       children: [
         { id: "api-design", name: "API Design", value: 60, expected: 60 },
         { id: "scalability", name: "Scalability", value: 80, expected: 60 },
@@ -64,6 +70,8 @@ window.skillsData = {
     {
       id: "version-control",
       name: "Version Control",
+      value: 68,
+      expected: 60,
       children: [
         { id: "git", name: "Git", value: 70, expected: 60 },
         { id: "gitflow", name: "GitFlow", value: 65, expected: 60 },
@@ -72,6 +80,8 @@ window.skillsData = {
     {
       id: "testing",
       name: "Testing",
+      value: 70,
+      expected: 58,
       children: [
         { id: "unit-testing", name: "Unit Testing", value: 65, expected: 65 },
         {
@@ -91,6 +101,8 @@ window.skillsData = {
     {
       id: "code-quality",
       name: "Code Quality",
+      value: 70,
+      expected: 58,
       children: [
         { id: "code-reviews", name: "Code Reviews", value: 75, expected: 60 },
         { id: "refactoring", name: "Refactoring", value: 70, expected: 65 },
@@ -105,6 +117,8 @@ window.skillsData = {
     {
       id: "development-methodologies",
       name: "Development Methodologies",
+      value: 73,
+      expected: 60,
       children: [
         {
           id: "agile-practices",
@@ -119,6 +133,8 @@ window.skillsData = {
     {
       id: "cloud-platforms",
       name: "Cloud Platforms",
+      value: 28,
+      expected: 55,
       children: [
         { id: "aws", name: "AWS", value: 30, expected: 55 },
         {
@@ -132,6 +148,8 @@ window.skillsData = {
     {
       id: "containerization-orchestration",
       name: "Containerization & Orchestration",
+      value: 28,
+      expected: 53,
       children: [
         { id: "docker", name: "Docker", value: 35, expected: 55 },
         { id: "kubernetes", name: "Kubernetes", value: 20, expected: 50 },
@@ -140,6 +158,8 @@ window.skillsData = {
     {
       id: "ci-cd",
       name: "CI/CD",
+      value: 33,
+      expected: 43,
       children: [
         { id: "jenkins", name: "Jenkins", value: 30, expected: 45 },
         {
@@ -153,6 +173,8 @@ window.skillsData = {
     {
       id: "monitoring-observability",
       name: "Monitoring & Observability",
+      value: 27,
+      expected: 53,
       children: [
         { id: "prometheus", name: "Prometheus", value: 35, expected: 55 },
         { id: "grafana", name: "Grafana", value: 20, expected: 55 },
@@ -168,6 +190,8 @@ window.skillsData = {
     {
       id: "verbal-communication",
       name: "Verbal Communication",
+      value: 65,
+      expected: 50,
       children: [
         {
           id: "team-discussions",
@@ -186,6 +210,8 @@ window.skillsData = {
     {
       id: "written-communication",
       name: "Written Communication",
+      value: 65,
+      expected: 38,
       children: [
         { id: "documentation", name: "Documentation", value: 70, expected: 35 },
         {
@@ -199,6 +225,8 @@ window.skillsData = {
     {
       id: "collaboration-tools",
       name: "Collaboration Tools",
+      value: 65,
+      expected: 35,
       children: [
         { id: "jira", name: "Jira", value: 60, expected: 30 },
         { id: "confluence", name: "Confluence", value: 70, expected: 40 },
@@ -207,6 +235,8 @@ window.skillsData = {
     {
       id: "teamwork",
       name: "Teamwork",
+      value: 85,
+      expected: 48,
       children: [
         { id: "mentoring", name: "Mentoring", value: 80, expected: 55 },
         {
@@ -221,6 +251,8 @@ window.skillsData = {
     {
       id: "debugging",
       name: "Debugging",
+      value: 35,
+      expected: 60,
       children: [
         {
           id: "runtime-errors",
@@ -234,6 +266,8 @@ window.skillsData = {
     {
       id: "root-cause-analysis",
       name: "Root Cause Analysis",
+      value: 35,
+      expected: 64,
       children: [
         {
           id: "incident-resolution",
@@ -247,6 +281,8 @@ window.skillsData = {
     {
       id: "critical-thinking",
       name: "Critical Thinking",
+      value: 43,
+      expected: 73,
       children: [
         {
           id: "decision-making",
