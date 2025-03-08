@@ -1,4 +1,4 @@
-This is a demo for the skill chart I've built while working at Lyearn.
+This is a demo of the skill chart I built while working at Lyearn.
 
 ##### Base state
 
@@ -11,3 +11,9 @@ This is a demo for the skill chart I've built while working at Lyearn.
 ##### Hover on a skill group
 
 ![Hover on a skill group](https://karanupamanyu.github.io/skill-chart-demo/screenshots/image3.png)
+
+The chart at Lyearn has additional features, such as:
+
+- Data sourcing from real users on the platform
+- onClick actions, interactivity, and state management as part of the profile page
+- Displaying average scores with a good/fair/bad meter in the center of the chart
